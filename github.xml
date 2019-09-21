@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="b22997fd-ef87-4e3b-80ab-933eb704d24c" name="tobreits">
+      <server host="github.ncsu.edu" />
+    </account>
+  </component>
+</application>
